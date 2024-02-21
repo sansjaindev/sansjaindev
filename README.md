@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/sanskarjain10/sanskarjain10/raw/output/dist/ocean.gif" alt="snake">
+<img src="https://github.com/sanskarjain10/sanskarjain10/raw/output/github-snake-dark.svg" alt="snake">
