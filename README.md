@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-## snake eating my contribution graph
-![snake gif](https://github.com/sanskarjain10/sanskarjain10/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/sanskarjain10/sanskarjain10/raw/output/ocean.gif" alt="snake">
