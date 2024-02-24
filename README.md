@@ -4,7 +4,7 @@
 
 <div align="center" style="display:flex">
   <a href="https://leetcode.com/sanskarjain01" target="_blank"><img src="https://leetcard.jacoblin.cool/sanskarjain01?ext=contest" /></a><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjain10&theme=dark&height=150" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=sanskarjain10&theme=dark" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarjain10&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="195" alt="languages graph"  />
 </div>
 
