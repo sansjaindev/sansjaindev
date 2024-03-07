@@ -4,8 +4,8 @@
 
 <div align="center" style="display:flex">
   <a href="https://leetcode.com/sanskarjain01" target="_blank"><img src="https://leetcard.jacoblin.cool/sanskarjain01?ext=contest" /></a><br>
-<img src="https://streak-stats.demolab.com/?user=sanskarjain10&theme=dark" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarjain10&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="195" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com/?user=sansjaindev&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sansjaindev&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="195" alt="languages graph"  />
 </div>
 
 ###
@@ -43,4 +43,4 @@
 </div>
 
 ###
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sanskarjain10/sanskarjain10/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sansjaindev/sansjaindev/output/github-contribution-grid-snake-dark.svg" />
